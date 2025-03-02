@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0217-contains-duplicate) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
