@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0344-reverse-string) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0053-maximum-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
