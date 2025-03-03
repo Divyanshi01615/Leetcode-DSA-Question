@@ -8,7 +8,6 @@ public:
             }
         }
     }
-
     bool canVisitAllRooms(vector<vector<int>>& rooms) {
         int n = rooms.size();
         vector<bool> visited(n, false);
