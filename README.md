@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
