@@ -75,5 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0871-keys-and-rooms) |
 | [1916-find-center-of-star-graph](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/1916-find-center-of-star-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0871-keys-and-rooms) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
