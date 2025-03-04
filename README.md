@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -20,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0344-reverse-string) |
