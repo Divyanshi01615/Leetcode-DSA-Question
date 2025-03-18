@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -96,19 +97,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0871-keys-and-rooms) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0733-flood-fill) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
