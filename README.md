@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0733-flood-fill](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0733-flood-fill) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,11 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0871-keys-and-rooms) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0733-flood-fill) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
