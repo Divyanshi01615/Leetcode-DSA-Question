@@ -9,7 +9,6 @@ class Solution:
             if start == len(nums):
                 res.append(op.copy())
                 return
-            
             self.solve(nums, start + 1, op, res)
             op.append(nums[start])
             self.solve(nums, start + 1, op, res)
