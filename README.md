@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0344-reverse-string) |
+| [0800-letter-case-permutation](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0800-letter-case-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,9 +130,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0800-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
