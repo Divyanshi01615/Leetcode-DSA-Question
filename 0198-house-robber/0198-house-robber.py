@@ -1,10 +1,14 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        s1=0
-        s2=0
-        for i in range(0,len(nums)):
-            t=max(s1,s2+nums[i])
-            s2,s1=s1,t
-        return s1
-
-        
+        n=len(nums)
+        if len(nums)==0:
+            return 0
+        if len(nums)==1:
+            return nums[0]
+        else:
+            dp=[0]*n
+            dp[0]=nums[0]
+            dp[1]=max(nums[0],nums[1])
+            for i in range(2,n):
+                dp[i]=max(dp[i-1],nums[i]+dp[i-2])
+        return dp[n-1]
