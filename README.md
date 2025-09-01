@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0344-reverse-string) |
+| [2481-strictly-palindromic-number](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/2481-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/0800-letter-case-permutation) |
+## Math
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Divyanshi01615/Leetcode-DSA-Question/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
